@@ -13,3 +13,5 @@ Multiplicative persistence is where you keep multiplying the digits of a number 
 >   5. Therefore, the multiplicative persistence of 22 is: 1
 
 ## How To Run
+
+Run `python3 multiplicative-persistence-calculator.py` in a terminal if you have Python 3.
