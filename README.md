@@ -12,4 +12,4 @@ Multiplicative persistence is where you keep multiplying the digits of a number 
 >   4. The number of times we had to multiply the digits to get a single digit was: 1
 >   5. Therefore, the multiplicative persistence of 22 is: 1
 
-## Run
+## How To Run
