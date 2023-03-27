@@ -15,3 +15,7 @@ Multiplicative persistence is where you keep multiplying the digits of a number 
 ## How To Run
 
 Run `python3 multiplicative-persistence-calculator.py` in a terminal if you have Python 3.
+
+## Additional
+
+Enjoy!
