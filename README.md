@@ -1,5 +1,5 @@
 # Multiplicative Persistence Calculator
-This is a multiplicative persistence calculator made in Python. Enjoy!
+This is a multiplicative persistence calculator made in Python.
 
 ## Background Information
 
